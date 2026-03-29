@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: medical-ocr-matcher
+Version: 0.1.0
+Requires-Python: >=3.9
+Requires-Dist: levenshtein>=0.27.1
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: rapidfuzz>=3.6.0

@@ -1,0 +1,6 @@
+pyproject.toml
+medical_ocr_matcher.egg-info/PKG-INFO
+medical_ocr_matcher.egg-info/SOURCES.txt
+medical_ocr_matcher.egg-info/dependency_links.txt
+medical_ocr_matcher.egg-info/requires.txt
+medical_ocr_matcher.egg-info/top_level.txt
