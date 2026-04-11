@@ -1,0 +1,40 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local files
+*.log
+*.sqlite3
+*.db
+*.pt
+*.pth
+
+
+# Auto-generated folders
+crops/
+images/
+output1.txt
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
